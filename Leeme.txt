@@ -1,0 +1,1 @@
+La carpeta ChiefManagement_php debe ir en le directorio htdoc de xampp y renombrarlo a ChiefManagement

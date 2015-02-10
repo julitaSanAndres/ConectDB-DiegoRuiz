@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ChiefManagement</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <color name="yellowgreen">#9ACD32</color>
+    <color name="black">#000000</color>
+
+    <string name="tx_log_inf">Introduce tu email para tu empresa y la contraseña</string>
+    <string name="tx_log_start">Iniciar Sesion</string>
+    <string name="tx_hi_email">Introduce tu email</string>
+    <string name="tx_hi_pass">  Introduce tu contraseña</string>
+
+    <color name="oliveDrab">#6B8E23</color>
+
+    <string name="tx_toast_error">Error en el email o en la contraseña</string>
+    <string name="title_activity_option">OptionActivity</string>
+    <string name="tx_sel">Selecione la opción que desee</string>
+    <string name="tx_zona_emple">Zona de empleados</string>
+
+    <color name="orange">#FFA500</color>
+
+    <string name="tx_zn_emp">En esta zona podras buscar empleados, añadir, editarlos y despedirlos</string>
+    <string name="tx_zona_clientes">Zona Clientes</string>
+    <string name="tx_zn_clien">En esta zona podras buscar clientes,editarlos borrarlos y añadir nuevos clientes</string>
+    <string name="title_activity_client">ClientActivity</string>
+    <string name="tx_dni">DNI:</string>
+    <string name="tx_nombre">NOMBRE:</string>
+    <string name="tx_error_vacio">Algun  campo vacio</string>
+
+</resources>
